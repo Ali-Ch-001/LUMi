@@ -20,7 +20,7 @@ Check out the live demo: [LUMi](https://lu-mi.vercel.app)
 ## Technologies Used
 
 - **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Appwrite
+- **Backend:** Appwrite, react-query, TanStack
 - **Hosting:** Vercel
 
 ## Installation
