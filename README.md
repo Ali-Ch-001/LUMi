@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps:
 - npm or yarn
 
   
-## Public Distribution Without Authrization Not Allowed 
+## Public Distribution Without Authorisation Not Allowed 
 
 ### Clone the Repository
 
