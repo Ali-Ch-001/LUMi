@@ -12,8 +12,7 @@ Check out the live demo: [LUMi](https://lu-mi.vercel.app)
 ## Looks Good Right :)
 
 ![1](https://github.com/Ali-Ch-001/LUMi/assets/108975862/272882af-14e3-49af-badc-68757ce49f68)
-![2](https://github.com/Ali-Ch-001/LUMi/assets/108975862/e6d15a47-9823-42e7-aa5e-ab5f166d7f52)
-![3](https://github.com/Ali-Ch-001/LUMi/assets/108975862/4d75d9ac-db8e-4275-8af7-6cd6748ebc76)
+![2](https://github.com/Ali-Ch-001/LUMi/assets/108975862/4d75d9ac-db8e-4275-8af7-6cd6748ebc76)
 
 
 ## Features
