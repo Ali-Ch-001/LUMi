@@ -5,6 +5,8 @@ LUMi is a modern social media platform designed to connect people in a vibrant a
 ## Demo
 
 Check out the live demo: [LUMi](https://lu-mi.vercel.app)
+-username : demo@lumi.com
+-password : demo1234
 
 ## Features
 
@@ -35,5 +37,5 @@ To get a local copy up and running, follow these steps:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/lumi.git
+git clone https://github.com/ali-ch-001/lumi.git
 cd lumi
