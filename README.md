@@ -5,8 +5,9 @@ LUMi is a modern social media platform designed to connect people in a vibrant a
 ## Demo
 
 Check out the live demo: [LUMi](https://lu-mi.vercel.app)
--username : demo@lumi.com
--password : demo1234
+
+- username : demo@lumi.com
+- password : demo1234
 
 ## Features
 
